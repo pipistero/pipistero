@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">An ideological Unity C# developer</h3>
 
+```C#
+public class AntonKazakevich : IDeveloper, IEngineer, IBadGuy
+{
+    public string Username { get; private set; }
+    public string Role { get; private set; }
+    public string Location { get; private set; }
+
+    public AntonKazakevich()
+    {
+        Username = "Pipistero";
+        Role = "Unity/C# Developer";
+        Location = "59.938676, 30.314487";
+    }
+}
+```
+
 ## Contact me
 
 <a href="https://t.me/pipistero" target="_blank">
