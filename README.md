@@ -1,30 +1,24 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">An ideological Unity C# developer</h3>
 
-- 📫 How to reach me:
-  + Email: **laweirdcompany@gmail.com**
-  + Telegram: **<a href="https://t.me/pipistero" target="_blank" rel="noreferrer">pipistero</a>**
+## Contact me
 
-- 📄 Know about my experiences [Notion CV](https://pipistero.notion.site/Unity-C-Developer-950409c3348740e994258d565f467337?pvs=4)
+<a href="https://t.me/pipistero" target="_blank">
+<img src=https://img.shields.io/badge/telegram-26A5E4.svg?color=1DA1F2&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 
-<h2 align="center">My skills</h2>
+<a href="mailto:laweirdcompany@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-<div align="center">
-    <div>
-        <h3>Languages</h3>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    </div>
-    <div>
-        <h3>Game development</h3>
-        <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-    </div>
-    <div>
-        <h3>Backend</h3>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-        <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-        <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
-        <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-    </div>
-</div>
+## My experience
+<a href="[mailto:laweirdcompany@gmail.com](https://pipistero.notion.site/Unity-C-Developer-950409c3348740e994258d565f467337?pvs=4)" target="_blank">
+<img src=https://img.shields.io/badge/notion-000000.svg?color=000000&style=for-the-badge&logo=notion&logoColor=white alt=notion style="margin-bottom: 5px;" />
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pipistero&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pipistero&theme=radical&hide_border=true" />
+  </a>
+</p>
+<br
