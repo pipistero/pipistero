@@ -2,7 +2,7 @@
 <h3 align="center">An ideological Unity C# developer</h3>
 
 ```C#
-public class AntonKazakevich : IDeveloper, IEngineer, IBadGuy
+public class AntonKazakevich : IDeveloper, IEngineer
 {
     public string Username { get; private set; }
     public string Role { get; private set; }
