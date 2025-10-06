@@ -25,10 +25,6 @@ public class AntonKazakevich : IDeveloper, IEngineer
 <a href="mailto:laweirdcompany@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-## My experience
-<a href="https://pipistero.notion.site/Unity-C-Developer-950409c3348740e994258d565f467337?pvs=4" target="_blank">
-<img src=https://img.shields.io/badge/notion-000000.svg?color=000000&style=for-the-badge&logo=notion&logoColor=white alt=notion style="margin-bottom: 5px;" />
-
 ## My Statistics
 
 <br/>
