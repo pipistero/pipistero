@@ -12,7 +12,7 @@ public class AntonKazakevich : IDeveloper, IEngineer
     {
         Username = "Pipistero";
         Role = "Unity/C# Developer";
-        Location = "59.938676, 30.314487";
+        Location = "55.747034, 37.539156";
     }
 }
 ```
